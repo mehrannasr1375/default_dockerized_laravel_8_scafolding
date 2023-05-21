@@ -29,6 +29,7 @@
 ----------------------------------------------
 
 4. run app & phpmyadmin like below:
+
 		https://127.0.0.1:80 #app
 		https://127.0.0.1:9000 #phpmyadmin
 		
